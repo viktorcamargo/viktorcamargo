@@ -49,5 +49,5 @@ I’ve published research in journals like [CHAOS](https://pubs.aip.org/aip/cha)
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=viktorcamargo&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=viktorcamargo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
