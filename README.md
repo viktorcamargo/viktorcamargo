@@ -1,3 +1,5 @@
+![Header Image](assets/matrix_space.png)
+
 # Hi, I'm Victor Camargo
 
 I'm a physicist and data scientist with a background in complex systems and healthcare analytics. Currently, I work as a Data Science Instructor at [TripleTen](https://tripleten.com), where I guide students through Python, machine learning, and real-world data projects. Previously, I contributed to clinical data solutions at [Carta Healthcare](https://www.carta.healthcare), developing ML pipelines and NLP tools for electronic health records.
