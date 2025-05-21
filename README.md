@@ -1,6 +1,10 @@
 ![Header Image](assets/matrix_space.png)
 
-# Hi, I'm Victor Camargo
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&width=500&lines=Hello!+I'm+Victor!+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Hello! I'm Victor!" />
+</div>
+
+## About Me
 
 I'm a physicist and data scientist with a background in complex systems and healthcare analytics. Currently, I work as a Data Science Instructor at [TripleTen](https://tripleten.com), where I guide students through Python, machine learning, and real-world data projects. Previously, I contributed to clinical data solutions at [Carta Healthcare](https://www.carta.healthcare), developing ML pipelines and NLP tools for electronic health records.
 
@@ -49,3 +53,8 @@ I’ve published research in journals like [CHAOS](https://pubs.aip.org/aip/cha)
 ## Let's Connect
 
 [📧 Email](mailto:victor.camargo.molina@gmail.com) • [LinkedIn](https://www.linkedin.com/in/victor-ecm) • [ORCID](https://orcid.org/0000-0002-8974-2988)
+
+---
+
+<!-- GitHub Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=viktorcamargo&style=flat-square&color=blueviolet" alt="Profile views"/>
