@@ -15,16 +15,6 @@ I'm a physicist and data scientist with a background in complex systems and heal
 
 ---
 
-## Areas of Focus
-
-- Machine Learning & NLP  
-- Complex Systems & Scientific Computing  
-- Real-World Data Applications (healthcare, education, marketing)  
-- AI Automation & LLMs (LangChain, Langraph, Transformers)  
-- EdTech and Mentorship
-
----
-
 ## Tools & Skills
 
 **Languages**: Python, JavaScript, SQL  
@@ -36,11 +26,11 @@ I'm a physicist and data scientist with a background in complex systems and heal
 **Workflow**: Git, Bash, Jupyter, Pytest, Agile/Scrum  
 **LLM Tools**: LangChain, Langraph, OpenAI API
 
----
-
-## Featured Projects
-
-Coming soon — sample notebooks, ML pipelines, and education-focused tools.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,js,bash,numpy,pandas,scipy,scikitlearn,seaborn,excel,pytorch,tensorflow,cuda,streamlit,render,jupyter,vscode,anaconda,docker,aws,postgresql,mysql,sqlite,git,github,json,notion,latex&theme=light&perline=9" />
+  </a>
+</p>
 
 ---
 
@@ -49,12 +39,3 @@ Coming soon — sample notebooks, ML pipelines, and education-focused tools.
 I’ve published research in journals like [CHAOS](https://pubs.aip.org/aip/cha) and [Chaos, Solitons & Fractals](https://www.sciencedirect.com/journal/chaos-solitons-and-fractals), covering synchronization, dynamical systems, and economic models. See full list on [Google Scholar](https://scholar.google.com/citations?user=rotxSnAAAAAJ&hl=pt-BR) or [ORCID](https://orcid.org/0000-0002-8974-2988).
 
 ---
-
-## Let's Connect
-
-[📧 Email](mailto:victor.camargo.molina@gmail.com) • [LinkedIn](https://www.linkedin.com/in/victor-ecm) • [ORCID](https://orcid.org/0000-0002-8974-2988)
-
----
-
-<!-- GitHub Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=viktorcamargo&style=flat-square&color=blueviolet" alt="Profile views"/>
